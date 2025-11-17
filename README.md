@@ -1,4 +1,4 @@
-# Quiz 4 - Keno Game
+# Quiz 3 - Keno Game
 
 ## Game Description
 Keno is a lottery-like gambling game where 20 numbers are randomly selected out of numbers ranging from 1 to 80. 
