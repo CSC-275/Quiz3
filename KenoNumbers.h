@@ -7,7 +7,7 @@ private:
     std::vector<int> m_kenoNumbers;
 public:
     void generateNumbers();
-    std::vector <int> getKenoNumbers();
+    std::vector <int> getKenoNumbers(); // return KenoNumbers generated
     void printKenoNumbers();
     void clearKenoNumbers();
 };

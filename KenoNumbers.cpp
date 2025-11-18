@@ -6,7 +6,7 @@
 void KenoNumbers::generateNumbers() {
     std::random_device rd;
     std::mt19937 gen(rd());
-    gen.seed(0);
+    gen.seed(0);  // seed used for GitHub testing
     std::uniform_int_distribution<int> distrib(1, 80);
     int num;
     for (int i = 1; i <= 20; ) {

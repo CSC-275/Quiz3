@@ -7,7 +7,7 @@ void Player::inputPlayerNumbers() {
     bool error;
     int temp=0;
 
-    for (int i=0;i<10;i++)
+    for (int i=0;i<10;i++)  // collect & valid input loop
     {
         error = false;
         std::cout << "Enter your pick #" << i+1 <<": ";
